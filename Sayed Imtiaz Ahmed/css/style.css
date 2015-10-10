@@ -72,8 +72,7 @@ body {
 }
 
 
-.left_sidebar h1,
-.right_sidebar h1 {
+.sidebar_h1 {
     padding: 10px 0 10px 15px;
 	font-family: cursive;
     color: #C3A46A;
@@ -131,7 +130,7 @@ body {
     float: right;
     padding: 50px 70px 0 0;
 }
-.contact_area h1 {
+.contact_h1 {
         color: #C3A481;
 		font-family: 'Pacifico', cursive;
 }
